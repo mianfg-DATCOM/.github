@@ -1,4 +1,4 @@
-![Repo image](https://repository-images.githubusercontent.com/671044780/b3c53880-c90a-4f0b-8cc0-693cb34ff7c0)
+![Repo image](https://repository-images.githubusercontent.com/671044780/800d59f7-c389-49cd-8887-bbb73c9d696e)
 
 # Máster en Ciencia de Datos (Master's Degree in Data Science)
 
