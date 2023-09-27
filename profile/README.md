@@ -1,6 +1,6 @@
 ![Repo image](https://repository-images.githubusercontent.com/671044780/800d59f7-c389-49cd-8887-bbb73c9d696e)
 
-# Máster en Ciencia de Datos (Master's Degree in Data Science)
+# Máster Universitario en Ciencia de Datos e Ingeniería de Computadores (Master's Degree in Data Science and Computer Engineering)
 
 Welcome to my repository for the **Master's Degree in Data Science and Computer Engineering (specializing in Data Science), from University of Granada**. This repository includes notes, exercises and much more.
 
